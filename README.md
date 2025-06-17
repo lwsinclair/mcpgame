@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/squirelo-mcpgame-badge.png)](https://mseep.ai/app/squirelo-mcpgame)
+
 # Gamepad MCP Server
 
 A Model Context Protocol (MCP) server that enables AI assistants to control games through gamepad, keyboard, and mouse inputs.
